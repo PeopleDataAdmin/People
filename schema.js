@@ -20,12 +20,15 @@
             "responses":
               "name": Kennedy
               "sliderResponse": 3.5
+                "Permissions" (person type users named bob, who live in denver can view during the day)
+                  "action" (can view, can edit,
               "name": Biden
               "sliderResponse": -5
             "comments" //user's comments on this question
         "associatedPolIdentities": (progressive, libertarian, independant),
         "subculturalIdentity": (hipster, punk, goth, nerd)
-
+  "resources"
+    "type":
 
 "Platform"
   "ONELocal"
@@ -33,7 +36,7 @@
 
 
 Objects
-    "type": resource, skill, role, task, project, event, person, organization, group, question, vote, comment/reply, post, chatMessage, Poll, Checklkist, 
+    "type": resource, skill, role, task, project, event, person, organization, group, question, vote, comment/reply, post, chatMessage, Poll, Checklkist, wallet, account, 
 
     
 
