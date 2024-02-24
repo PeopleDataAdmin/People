@@ -22,12 +22,27 @@
               "sliderResponse": 3.5
               "name": Biden
               "sliderResponse": -5
+            "comments" //user's comments on this question
         "associatedPolIdentities": (progressive, libertarian, independant),
         "subculturalIdentity": (hipster, punk, goth, nerd)
 
 
 "Platform"
   "ONELocal"
+    "schema"
+
 
 Objects
-    "type": resource, skill, role, task, project, event, person, organization, group, question, vote, comment/reply, post, chatMessage, Poll
+    "type": resource, skill, role, task, project, event, person, organization, group, question, vote, comment/reply, post, chatMessage, Poll, Checklkist, 
+
+    
+
+
+
+
+
+
+
+
+
+    
