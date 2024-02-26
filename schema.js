@@ -15,6 +15,7 @@ permission:
   "id": "U123",
   "agentId": "A123",
   "firstName": "Cam",
+    "permission": [pID]
   "lastName": "Alot", // String
   "name": "Cam Alot", // String
   "nickname": "CamAlot", // String
